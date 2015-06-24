@@ -1,0 +1,2 @@
+# creating-interface-for-postgresql-
+i would like to create an interface for my osm data to retrieve every information from the database using interface, like nodes info, shortest path, nearest neighbor etc.. but i am finally concluded that i can use xml or json to develop an interface.. can any one suggest how to work in that because i am little bit new to dev interface i have little bit knowledge in php,.. for retrieving such information is there any algorithm available ..please help me  
